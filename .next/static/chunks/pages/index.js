@@ -26,7 +26,7 @@ module.exports = JSON.parse('[{"title":"Principal Developer","desc":"CVC Viagens
 /***/ (function(module) {
 
 "use strict";
-module.exports = JSON.parse('["Go","Python","Js","Vue.js","Java","Scrappings","Math Problems","Vim","Open Source"]');
+module.exports = JSON.parse('["Go","Python","Java","Hexagonal Arch"]');
 
 /***/ }),
 
